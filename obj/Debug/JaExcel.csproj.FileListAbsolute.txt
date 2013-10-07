@@ -1,0 +1,12 @@
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\bin\Debug\JaExcel.dll
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\bin\Debug\JaExcel.pdb
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\bin\Debug\JaExcel.dll.manifest
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\bin\Debug\JaExcel.vsto
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\bin\Debug\JaAPI.dll
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\obj\Debug\JaExcel.csprojResolveAssemblyReference.cache
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\obj\Debug\JaExcel.Properties.Resources.resources
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\obj\Debug\JaExcel.csproj.GenerateResource.Cache
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\obj\Debug\JaExcel.dll
+c:\users\david.ja\documents\visual studio 2010\projects\JaExcel\JaExcel\obj\Debug\JaExcel.pdb
